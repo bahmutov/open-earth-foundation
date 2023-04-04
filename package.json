@@ -1,0 +1,24 @@
+{
+  "name": "open-earth-foundation",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bahmutov/open-earth-foundation.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bahmutov/open-earth-foundation/issues"
+  },
+  "homepage": "https://github.com/bahmutov/open-earth-foundation#readme",
+  "devDependencies": {
+    "cypress": "^12.9.0",
+    "prettier": "^2.8.7"
+  }
+}
